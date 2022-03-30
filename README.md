@@ -55,7 +55,7 @@
 
 ## 🌈 새싹디벨로퍼
 [Notion](https://www.notion.so/Sesac-1c656fd978fd4196b04fb7728cb26293)
-[미연언니닉넴](https://github.com/kalmtalyst) 
+[미연](https://github.com/kalmtalyst) 
 [세영](https://github.com/julie-kim-dev) 
 [한솔](https://github.com/hansol787897465121) 
 [예지](https://github.com/yeahhaaa) 
