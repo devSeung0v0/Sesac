@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/logo.png" width="500" height="200"  ><img src="https://github.com/hansol787897465121/Sesac/blob/main/image/expert-qr.png" width="150" height="200" align="right">  
+<img src="https://user-images.githubusercontent.com/99793031/165108703-2e4a9215-6967-4487-a04d-5e537d2a3060.png" width="500" height="200"  ><img src="https://user-images.githubusercontent.com/86069422/160289118-1d22d280-9e8c-4abd-bcce-61477758457a.png" width="150" height="200" align="right">  
 </p>
 <br/>
 
@@ -42,7 +42,7 @@
 
 ## 메뉴 구조도
 <p align="center">
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/menu1.png" width="800" height="400"  >
+<img src="https://user-images.githubusercontent.com/86069422/160288239-68dedfbc-0881-42a2-8e3f-c06536b316bd.png" width="800" height="400"  >
 </p>
 <br/>
 
@@ -57,7 +57,7 @@
 [Notion](https://www.notion.so/Sesac-1c656fd978fd4196b04fb7728cb26293)
 [미연](https://github.com/kalmtalyst) 
 [세영](https://github.com/julie-kim-dev) 
-[한솔](https://github.com/hansol787897465121) 
+[한솔](https://github.com/hansol-FE) 
 [예지](https://github.com/yeahhaaa) 
 [승연](https://github.com/devSeung0v0)
 [여진](https://github.com/yeojincho)
@@ -112,7 +112,7 @@
 <summary>메인 화면</summary>
 <div markdown="1">
 <p>
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/main.png" width="800" height="700">
+<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/main.png" >
 </p>
  <div>
 <p>:one: 메인 공지팝업</p>
@@ -134,7 +134,7 @@ swiper 라이브러리를 사용하여 2초마다 배너가 슬라이딩 & 배�
 <summary>로그인 화면</summary>
 <div markdown="1">
 <p>
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/login.png" width="800" height="400"  >
+<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/login.png"  >
 </p>
 <div>
 <p>:one: 유효성 검사</p>
@@ -160,7 +160,7 @@ swiper 라이브러리를 사용하여 2초마다 배너가 슬라이딩 & 배�
 <summary>회원가입 화면</summary>
 <div markdown="1">
 <p>
-<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/join2.png" width="800" height="700">
+<img src="https://github.com/hansol787897465121/Sesac/blob/main/image/join2.png">
 </p>
 <div>
 <p>:one: 아이디/비밀번호 유효성 검사</p>
